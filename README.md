@@ -1,1 +1,1 @@
-Iniciando um projeto de api com postgreSQL
+Iniciando um projeto de Tarefas, onde irei fazer uma API em Golang e utilizando o PostgreSQL também.
